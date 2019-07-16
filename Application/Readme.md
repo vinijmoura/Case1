@@ -3,7 +3,7 @@
 | ASP.NET Core | .NET Core 1.1 | Azure Web App, Virtual Machines |
 
 
-# ASP.NET Core MVC application
+# ASP.NET Core MVC application (example 1)
 
 Sample ASP.NET Core MVC application built using Visual Studio 2017.
 
